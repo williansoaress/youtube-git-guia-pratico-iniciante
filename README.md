@@ -36,3 +36,4 @@ https://git-scm.com/download
 * `git push` // envia alterações locais para o repositório remoto
 * `git clone` // clonar um projeto / repositório
 * `git pull` // puxa do repositório remoto
+* `git config credential.helper` // configura conta do github para evitar digitar usuário e senha nos commits
